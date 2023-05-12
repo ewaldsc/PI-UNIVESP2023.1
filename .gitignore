@@ -1,0 +1,24 @@
+**/ *.env
+
+.env
+.venv
+env/
+venv/
+tmp/
+passenger_wsgi.py
+passenger_wsgi.pyc
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+local_settings.py
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+clientesduds/clientesduds/.env
